@@ -30,7 +30,7 @@ npm i
 npm run dev
 ```
 
-##🚀 Features
+🚀 Features
 
 - Dashboard: Centralized view of campus activities, upcoming events, and personal statistics.
 
