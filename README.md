@@ -1,7 +1,7 @@
 # campusHub
 
 ## Project Demo
-<a> https://drive.google.com/file/d/1k98XCZEOtYOx5Gtu4FC2tb50H4C8XXrE/view?usp=sharing  </a>
+<a> https://github.com/Jha-2022/campusHub/blob/main/frontend/public/campuHubDemo.mp4  </a>
 ## How can I edit this code?
 
 There are several ways of editing your application.
