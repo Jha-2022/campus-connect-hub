@@ -1,5 +1,5 @@
 # campusHub
-
+https://github.com/Jha-2022/campusHub/blob/main/frontend/public/campuHubDemo%20(1).mp4
 ## Project Demo
  [demo video] https://github.com/Jha-2022/campusHub/blob/main/frontend/public/campuHubDemo.mp4
 <video width="640" height="360" controls>
