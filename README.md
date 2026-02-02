@@ -27,7 +27,7 @@ npm i
 npm run dev
 ```
 ## Zip File
-[697e49dfab842_hackoverflow.zip](https://github.com/user-attachments/files/25011753/697e49dfab842_hackoverflow.zip)
+[campusHub.zip](https://github.com/user-attachments/files/25011753/697e49dfab842_hackoverflow.zip)
 
 
 ## Features and Folder Structure for this project?
