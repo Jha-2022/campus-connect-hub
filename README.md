@@ -1,5 +1,5 @@
 # campusHub
-A comprehensive campus management and engagement platform designed to streamline student life, club activities, and resource sharing.
+CampusHub is a comprehensive digital ecosystem designed to centralize and enhance the university experience for students and faculty. By integrating club management, academic resource sharing, event coordination, and real-time communication into a single unified platform, it streamlines campus life and fosters a more connected academic community. Built with a modern React frontend and a robust Node.js backend, the platform provides intuitive dashboards and data insights to help students navigate their campus journey more effectively.
 
 ## Project Demo
 https://github.com/user-attachments/assets/04c80b66-0798-4233-a825-bfa89170a846
