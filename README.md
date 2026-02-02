@@ -29,7 +29,7 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-
+## Features and Folder Structure for this project?
 🚀 Features
 
 - Dashboard: Centralized view of campus activities, upcoming events, and personal statistics.
